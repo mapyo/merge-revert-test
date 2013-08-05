@@ -8,3 +8,8 @@ masterのhogehogeブランチ作成後の作業2
 masterのhogehogeブランチ作成後の作業3
 masterのhogehogeブランチ作成後の作業4
 masterのhogehogeブランチ作成後の作業5
+masterのrevert後の作業1
+masterのrevert後の作業2
+masterのrevert後の作業3
+masterのrevert後の作業4
+masterのrevert後の作業5
