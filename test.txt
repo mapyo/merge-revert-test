@@ -3,3 +3,8 @@ masterの最初の作業2
 masterの最初の作業3
 masterの最初の作業4
 masterの最初の作業5
+masterのhogehogeブランチ作成後の作業1
+masterのhogehogeブランチ作成後の作業2
+masterのhogehogeブランチ作成後の作業3
+masterのhogehogeブランチ作成後の作業4
+masterのhogehogeブランチ作成後の作業5
