@@ -1,5 +1,10 @@
 masterの最初の作業1
 masterの最初の作業2
+hogehogeブランチのrevert後の作業1
+hogehogeブランチのrevert後の作業2
+hogehogeブランチのrevert後の作業3
+hogehogeブランチのrevert後の作業4
+hogehogeブランチのrevert後の作業5
 masterの最初の作業3
 masterの最初の作業4
 masterの最初の作業5
